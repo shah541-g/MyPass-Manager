@@ -1,12 +1,7 @@
-# Password Manager: Information Security Project Report
+# Password Manager: Information Security Project 
 
 ## Title Page
-**Project Title**: Password Manager  
-**Team Members**:  
-- Zohra Amna (2022-SE-03)  
-- Muhammad Noman (2022-SE-31)  
-- Syed Abdul Ali Shah (2022-SE-36)  
-- Rana Muhammad Saifullah (2022-SE-39)  
+**Project Title**: Password Manager   
 **Supervisor**: Mam Anam Iftikhar  
 **Institution/Department**: University Of Engineering And Technology Lahore, Department of Software Engineering  
 **Date of Submission**: May 4, 2025  
